@@ -6,7 +6,7 @@ Este projeto demonstra como utilizar inteligência artificial para automatizar a
 
 ---
 
-## 🚀 O que a automação faz
+## 🚀 O que a automação faz:
 
 1. Acessa o site `https://www.saucedemo.com`
 2. Realiza login com o usuário `standard_user` e senha `secret_sauce`
@@ -19,7 +19,7 @@ Este projeto demonstra como utilizar inteligência artificial para automatizar a
 
 ---
 
-## 🧩 Tecnologias usadas
+## 🧩 Tecnologias usadas:
 
 - [Python 3.11+](https://www.python.org/)
 - [browser-use](https://github.com/browser-use/browser-use)
@@ -66,7 +66,11 @@ python3 main.py
 
 O navegador será aberto e a automação será realizada. Ao final, um código Cypress será gerado e exibido no terminal.
 
-## 📚 Referência e créditos
+## ▶️ Demonstração: 
+![automacaoIA](https://github.com/user-attachments/assets/dddac014-e488-4d59-826b-73e11a8670eb)
+
+
+## 📚 Referência e créditos:
 Este projeto usa a biblioteca [browser-use](https://github.com/browser-use/browser-use), criada por: Müller e Žunič (2024)
 
 ```bibtex
